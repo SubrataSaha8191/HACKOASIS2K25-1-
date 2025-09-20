@@ -180,9 +180,7 @@ export default function LegalAILanding() {
                 </Button>
               </Link>
             </motion.div>
-            <Button variant="outline" size="lg" className="text-lg px-8 py-6 border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 text-gray-900 dark:text-gray-100">
-              Watch Demo
-            </Button>
+            
           </motion.div>
         </div>
       </section>
